@@ -5,16 +5,28 @@ html {
 
 .tophead {
   background-image: url("../images/the-flatiron-building.png");
+  background-repeat: no-repeat;
 }
 
 .designedinny {
   background-image: url("../images/the-flatiron-building.png");
+  background-repeat: no-repeat;
 }
 
-h3 .designedinny {
+.designedinny h3 {
   font-size: 23px;
   font-weight: bold;
   color: white;
+}
+
+span {
+  font-size: 11px;
+}
+
+.footer {
+  color: white;
+  background-color: dimgray;
+  text-align: left;
 }
 
 h1 {
